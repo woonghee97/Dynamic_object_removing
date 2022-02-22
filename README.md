@@ -12,6 +12,8 @@ glob을 이용해서 data의 경로를 가져오는 것에는 성공했다.
 # 향후 계획
 
 1. model 구조 만들기
+  - RGB image에서 semantic segmentation 추출하는 모델 구현
+  - The cityscapes dataset for semantic urban scene understanding 모델 참고해서 구현하기
 
 2. 학습하는 부분 만들기(1)
 
